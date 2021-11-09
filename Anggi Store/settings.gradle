@@ -1,0 +1,2 @@
+rootProject.name = "Anggi Store"
+include ':app'
